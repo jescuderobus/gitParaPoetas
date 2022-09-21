@@ -7,7 +7,7 @@ Este proyecto git es para aprender como funciona esta herramienta, es un proyect
 
 Consiste en escribir letras de canciones y poemas para crear el poeta más grande conocido **Rufino Bourbaki**.
 
-El repositorio contiene cuentos, canciones y poemas que son la inspiracón del poeta, los escucha en YTB y trnascribe en este cuaderno de notas. 
+El repositorio contiene cuentos, canciones y poemas que son la inspiracón del poeta, los escucha en YTB y transcribe en este cuaderno de notas. 
 
 Rufino continuamente añade y borra material nuevo, porque su cerebro está en ebullición constante.
 
