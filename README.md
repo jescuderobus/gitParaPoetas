@@ -1,13 +1,17 @@
 # gitParaPoetas
 
+
+## DESCRIPCIÓN
+
 Este proyecto git es para aprender como funciona esta herramienta, es un proyecto experimental.
 
-Consiste en escribir letras de canciones y poemas en **formato markdown**, pero hagámoslo más interesante, sólo recurriendo a nuestra memoria o a lo recien escuchado. No vale mirar nada en internet el texto. 
-- Valen letras de canciones y poemas que escuchemos, los escuchais en YTB y transcribís aquello de lo que os acordeis. 
-- Podeis añadir y proponer mas canciones, poemas y otros textos.
-- El del barometro es para Rubén, podemos reinventar la anécdota.
-- Vamos a aprender de paso en la sección de otros a experimentar un poco con Markdown.
-- En Markdown para escribir poesias hay que usar la [ruptura blanda](https://www.markdowntutorial.com/es/lesson/7/) 
+Consiste en escribir letras de canciones y poemas para crear el poeta más grande conocido **Rufino Bourbaki**.
+
+El repositorio contiene cuentos, canciones y poemas que son la inspiracón del poeta, los escucha en YTB y trnascribe en este cuaderno de notas. 
+
+Rufino continuamente añade y borra material nuevo, porque su cerebro está en ebullición constante.
+
+En un primer momento empezó con los contenidos que veis abajo...y dió sus primeros y torpes pasos leyendo cuidadosamente estas [instrucciones](diarioGIT.md).
 
 
 ## Poemas
@@ -28,8 +32,4 @@ Consiste en escribir letras de canciones y poemas en **formato markdown**, pero 
 - [La mosca que soñaba que era un aguila](cuentos/La%20mosca%20que%20soñaba%20que%20era%20un%20aguila.md), Augusto Monterroso
 - [La oveja negra](cuentos/La%20oveja%20negra.md), Augusto Monterroso
 
-
-## Otros
-
-Seccion experimental para pruebas y aprender markdown.
 
