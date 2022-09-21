@@ -12,21 +12,21 @@ Consiste en escribir letras de canciones y poemas en **formato markdown**, pero 
 
 ## Poemas
 
-- [Canción del Pirata], José Espronceda
-- [Ozymandias], Percey Shelley (inglés)
-- [Inteligencia], Juan Ramon Jiménez
+- [Canción del Pirata](poemas/Canci%C3%B3n%20del%20Pirata.md), José Espronceda
+- [Ozymandias](poemas/Ozymandias.md), Percey Shelley (inglés)
+- [Inteligencia](poemas/Inteligencia.md), Juan Ramon Jiménez
 
 
 ## Canciones
 
 - [Malamente], Rosalia
 - [The man comes around], Jhonny Cash (ingles)
-- [Nos sobran los motivos], Joaquin sabina
+- [Nos sobran los motivos](letrasCanciones/Nos%20sobran%20los%20motivos.md), Joaquin Sabina
 
 ## Cuentos
 
-- [La mosca que soñaba que era un aguila]
-- [La oveja negra]
+- [La mosca que soñaba que era un aguila](cuentos/La%20mosca%20que%20soñaba%20que%20era%20un%20aguila.md), Augusto Monterroso
+- [La oveja negra](cuentos/La%20oveja%20negra.md), Augusto Monterroso
 
 
 ## Otros
