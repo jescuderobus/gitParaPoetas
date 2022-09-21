@@ -1,14 +1,35 @@
 # gitParaPoetas
 
+
+## DESCRIPCIÓN
+
 Este proyecto git es para aprender como funciona esta herramienta, es un proyecto experimental.
 
-Consiste en escribir letras de canciones y poemas en **formato markdown**, pero hagámoslo más interesante, sólo recurriendo a nuestra memoria. No vale mirar nada en internet, sólo de lo que nos acordemos. 
-- Valen letras de canciones de escuchemos y poemas que escuchemos, pero no los transcribais solo añadid las frases que creeis que faltan.
-- Podeis añadir y proponer mas canciones, poemas y otros textos.
-- El del barometro es para Rubén, podemos reinventar la anécdota.
+Consiste en escribir letras de canciones y poemas para crear el poeta más grande conocido **Rufino Bourbaki**.
+
+El repositorio contiene cuentos, canciones y poemas que son la inspiracón del poeta, los escucha en YTB y trnascribe en este cuaderno de notas. 
+
+Rufino continuamente añade y borra material nuevo, porque su cerebro está en ebullición constante.
+
+En un primer momento empezó con los contenidos que veis abajo...y dió sus primeros y torpes pasos leyendo cuidadosamente estas [instrucciones](diarioGIT.md).
 
 
-Empecemos:
+## Poemas
 
-- [[Canción del Pirata]], José Espronceda
+- [Canción del Pirata](poemas/Canci%C3%B3n%20del%20Pirata.md), José Espronceda
+- [Ozymandias](poemas/Ozymandias.md), Percey Shelley (inglés)
+- [Inteligencia](poemas/Inteligencia.md), Juan Ramon Jiménez
+
+
+## Canciones
+
+- [Malamente], Rosalia
+- [The man comes around], Jhonny Cash (ingles)
+- [Nos sobran los motivos](letrasCanciones/Nos%20sobran%20los%20motivos.md), Joaquin Sabina
+
+## Cuentos
+
+- [La mosca que soñaba que era un aguila](cuentos/La%20mosca%20que%20soñaba%20que%20era%20un%20aguila.md), Augusto Monterroso
+- [La oveja negra](cuentos/La%20oveja%20negra.md), Augusto Monterroso
+
 
