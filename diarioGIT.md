@@ -67,7 +67,7 @@ git pull
 ``` 
 - add --> añadir ficheros al repositorio.
 ```
-git add "fichero"
+git add *
 ```
 - commit --> ponemos un comentario para acordarnos de los cambios realizados.
 ```
@@ -81,14 +81,9 @@ git push
 
 # dia 5 - el branch meta
 
-- dedica el día a completar si te faltara alguna de las tareas de los díaas anteriores.
+- dedica el día a completar si te faltara alguna de las tareas de los días anteriores.
 
 - este repositorio tiene una rama dedicada a documentar y ampliar las tecnologías que se usan en él, explóralo en: https://github.com/jescuderobus/gitParaPoetas/tree/meta 
-
-
-
-
-
 
 
 
