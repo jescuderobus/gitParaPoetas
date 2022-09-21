@@ -12,7 +12,8 @@ y aunque no quiso el destino
 siempre se vuelve al primer amor
 
 La vieja noche donde me cobijo
-
+tuya es tu vida
+tuyo es tu querer
 
 
 Carlos Gardel
