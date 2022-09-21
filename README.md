@@ -11,7 +11,7 @@ El repositorio contiene cuentos, canciones y poemas que son la inspiracón del p
 
 Rufino continuamente añade y borra material nuevo, porque su cerebro está en ebullición constante.
 
-En un primer momento empezó con los contenidos que veis abajo...y dió sus primeros y torpes pasos leyendo cuidadosamente estas [instrucciones](diarioGIT.md).
+En un primer momento empezó con los contenidos que veis abajo, agregando poco a poco soluciones más complejas, todo su proceso de aprendizaje lo documentó en la [wiki del repositorio](https://github.com/jescuderobus/gitParaPoetas/wiki/git-D%C3%ADa-a-D%C3%ADa).
 
 
 ## Poemas
