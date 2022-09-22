@@ -3,10 +3,12 @@
 Por la esquina del viejo barrio lo vi pasar  
 Con el tumbao que tienen los guapos al caminar  
 Las manos siempre en los bolsillos de su gaban  
-pa que no sepa en cual de ellas lleva el puñal
+pa que no sepan en cual de ellas lleva el puñal
 
-Lleva un sombrero de ala ancha de medio lao
+Usa un sombrero de ala ancha de medio lao
 y zapatillas por si hay problemas salir volao  
+gafas oscuras pa que no sepan que está mirando
+y un diente de oro que cuando rie se ve brillando 
 
 A tres manzanas de aquella esquina, una mujer
 va recorriendo la acera entera por quinta vez  
@@ -34,7 +36,7 @@ del cielo te caen los clavos
 
 Ruben Blades
 
-Fuente: https://www.youtube.com/watch?v=k62zZBeevWQ
-
-Una mejor Fuente: https://www.youtube.com/watch?v=R8NcKaDocTw
+Fuente: https://www.youtube.com/watch?v=k62zZBeevWQ  
+Una mejor Fuente: https://www.youtube.com/watch?v=R8NcKaDocTw  
+Geniusly: https://genius.com/Willie-colon-and-ruben-blades-pedro-navaja-lyrics
 

@@ -1,5 +1,6 @@
 # Ozymandias
 
+[King of Kings](../_files/egyptian-svgrepo-com.svg_files)
 
 
 
