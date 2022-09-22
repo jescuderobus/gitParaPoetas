@@ -32,6 +32,5 @@ Fuente:
 
 ![El hombre que gritaba Teresa](../_files/shouting-svgrepo-com.svg)
 
-![](../_files/shouting-svgrepo-com.svg | width=100px)
+![](../_files/shouting-svgrepo-128.svg)
 
-![](../_files/shouting-svgrepo-com.svg =250x250)
