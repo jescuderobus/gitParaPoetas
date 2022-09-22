@@ -68,5 +68,5 @@ Algún obstinado seguía lamando a Teresa.
 
 Fuente: https://www.youtube.com/watch?v=zwQTRRkaVVg
 
-[El hombre que gritaba Teresa](../_files/shouting-svgrepo-com.svg)
+![El hombre que gritaba Teresa](../_files/shouting-svgrepo-com.svg)
 

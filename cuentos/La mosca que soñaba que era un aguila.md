@@ -10,6 +10,6 @@ Pero cuando volvía en sí lamentaba con toda el alma no ser un Águila para rem
 
 Augusto Monterroso
 
-[mosca](../_files/fly-svgrepo-com.svg)
+![mosca](../_files/fly-svgrepo-com.svg)
 
 Fuente: https://www.youtube.com/watch?v=TtZuKidQ1hg
