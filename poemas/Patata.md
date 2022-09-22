@@ -1,6 +1,6 @@
 # Patata
 
-Mi corazón palpita
+Mi corazón palpita  
 como una patata frita.
 
 Fuente: popular

@@ -1,12 +1,12 @@
 # Malamente
-Ese cristalito roto
-Yo sentí como crujía
-Antes de caerse al suelo
-Ya sabía que se rompía (uh)
-Está parpadeando
-La luz del descansillo
-Una voz en la escalera
-Alguien cruzando el pasillo
+Ese cristalito roto  
+Yo sentí como crujía  
+Antes de caerse al suelo  
+Ya sabía que se rompía (uh)  
+Está parpadeando  
+La luz del descansillo  
+Una voz en la escalera  
+Alguien cruzando el pasillo  
 
 Malamente (eso es; así si)
 Malamente (¡tra, tra!)
@@ -33,6 +33,6 @@ alguien cruzando el pasillo
 
 
 
-Rosalia
+Rosalia  
 
 Fuente: https://www.youtube.com/watch?v=Rht7rBHuXW8
