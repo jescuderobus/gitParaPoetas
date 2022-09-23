@@ -26,7 +26,7 @@ Uh
 
 Está parpadeando  
 la luz del descansillo  
-una luz en la escalera  
+una voz en la escalera  
 alguien cruzando el pasillo  
 
 
