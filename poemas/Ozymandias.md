@@ -18,11 +18,13 @@ The lone and level sands stretch far away.”
 
 **_Percey Shelley_**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sPlSH6n37ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video en YTB](https://img.youtube.com/vi/sPlSH6n37ts/0.jpg)](https://www.youtube.com/watch?v=sPlSH6n37ts)
 
-Fuente: https://www.youtube.com/watch?v=sPlSH6n37ts
+
 Fuente: https://www.poetryfoundation.org/poems/46565/ozymandias
+
 Fuente: https://www.poetryfoundation.org/articles/69503/percy-bysshe-shelley-ozymandias
+
 
 
 ![King of Kings](../_files/egyptian-svgrepo-com.svg)
