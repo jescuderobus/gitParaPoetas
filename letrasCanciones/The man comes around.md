@@ -1,10 +1,75 @@
+# The man comes around ⚡🎠🎺💀
 
+And I heard, as it were, the noise of thunder  
+One of the four beasts saying, "Come and see"  
+And I saw, and behold, a white horse  
+
+There's a man going 'round taking names  
+And he decides who to free and who to blame  
+Everybody won't be treated all the same  
+There'll be a golden ladder reaching down  
+When the man comes around  
+
+The hairs on your arm will stand up  
+At the terror in each sip and in each sup  
+Will you partake of that last offered cup?  
+Or disappear into the potter's ground?  
+When the man comes around  
+
+Hear the trumpets, hear the pipers  
+One hundred million angels singing  
+Multitudes are marching to the big kettledrum  
+Voices calling, voices crying  
+Some are born and some are dying  
+It's Alpha and Omega's kingdom come  
+And the whirlwind is in the thorn tree  
+The virgins are all trimming their wicks  
+The whirlwind is in the thorn tree  
+It's hard for thee to kick against the pricks
+
+[Verse 3]
+'Til Armageddon, no salaam, no shalom
+Then the father hen will call his chickens home
+The wise men will bow down before the throne
+And at his feet they'll cast their golden crowns
+When the man comes around
+You might also like
+Hurt
+Johnny Cash
+You Are My Sunshine
+Johnny Cash
+All Too Well (10 Minute Version) (Taylor’s Version) [Live Acoustic]
+Taylor Swift
+[Verse 4]
+Whoever is unjust, let him be unjust still
+Whoever is righteous, let him be righteous still
+Whoever is filthy, let him be filthy still
+Listen to the words long written down
 When the man comes around
 
+Hear the trumpets, hear the pipers  
+One hundred million angels singing  
+Multitudes are marching to the big kettledrum  
+Voices calling, voices crying  
+Some are born and some are dying  
+It's Alpha and Omega's kingdom come  
+And the whirlwind is in the thorn tree  
+The virgins are all trimming their wicks  
+The whirlwind is in the thorn tree  
+It's hard for thee to kick against the pricks  
+In measured hundredweight and penny pound  
+When the man comes around  
 
-Jhonny Cash
+And I heard a voice in the midst of the four beasts  
+And I looked, and behold, a pale horse  
+And his name, that sat on him, was Death  
+And Hell followed with him  
+
+**_Johnny Cash_**
 
 
-Fuente: https://www.youtube.com/watch?v=k9IfHDi-2EA
+Fuente: https://www.youtube.com/watch?v=sUNx5ZL5cIE
 
-P. D. Esta canción aparece al final de la pelicula de los X-Men en la que muere Lobezno.
+Curiosidad: Esta canción aparece al final de la pelicula "Logan", la pelicula que cuenta la historia de Lobezno.
+
+![](_files/../../_files/wolverine-claws-svgrepo-com.svg)

@@ -1,4 +1,28 @@
-A raiz de una noticia de la prensa vamos a contar lo que pasaron las 24 horas antes de que esto ocurriera.
+# Una gallina en el pentágono 🐔
+
+A raíz de una noticia que ha aparecido en la prensa internacional:
+- https://www.eldebate.com/internacional/20220215/gallina-sospechosa-infiltra-pentagono.html
+- https://www.jornada.com.mx/notas/2022/02/01/mundo/gallina-intenta-ingresar-al-pentagono/
+- https://www.ondacero.es/noticias/virales/gallina-cuela-zona-alta-seguridad-pentagono_2022021162060221960a9d0001914138.html
+
+... vamos a contar lo que pasaron las 24 horas antes de que esto ocurriera tal y como si fueramos los guionistas de la serie [24](https://www.imdb.com/title/tt0285331/).
+___
+                            ~-.
+          ,,,;            ~-.~-.~-
+         (.../           ~-.~-.~-.~-.~-.
+         } o~`,         ~-.~-.~-.~-.~-.~-.
+         (/    \      ~-.~-.~-.~-.~-.~-.~-.
+          ;    \    ~-.~-.~-.~-.~-.~-.~-.
+         ;     {_.~-.~-.~-.~-.~-.~-.~
+        ;:  .-~`    ~-.~-.~-.~-.~-.
+       ;.: :'    ._   ~-.~-.~-.~-.~-
+        ;::`-.    '-._  ~-.~-.~-.~-
+         ;::. `-.    '-,~-.~-.~-.
+          ';::::.`''-.-'
+            ';::;;:,:'
+               '||"
+               / |
+             ~` ~"'
 ___
 13:22, del 10 de septiembre, llegó a casa y me encuentro a mi gallina Pentágono comiéndose un trozo de pan. Ya he comprado todo lo necesario para colocarle una cámara en su nuevo collar, mañana asistiré con ella al homenaje de las víctimas del atentado realizado hace 20 años, donde mi oficina quedo totalmente destrozada debido al impacto del avión. 
 
@@ -38,6 +62,6 @@ ___
 
 13:22, después de varios intento consiguen atrapar a Pentágono, no entienden como ha llegado ahí una gallina y yo no comprendo cómo ha podido llevarse tantas horas dentro del edificio con mayor seguridad del mundo.
 
-https://www.ondacero.es/noticias/virales/gallina-cuela-zona-alta-seguridad-pentagono_2022021162060221960a9d0001914138.html
+
 
 

@@ -23,8 +23,8 @@ En un primer momento empezó con los contenidos que veis abajo, agregando poco a
 
 ## Canciones
 
-- [Malamente], Rosalia
-- [The man comes around], Jhonny Cash (ingles)
+- [Malamente](letrasCanciones/Malamente.md), Rosalia
+- [The man comes around](letrasCanciones/The%20man%20comes%20around.md), Jhonny Cash (ingles)
 - [Nos sobran los motivos](letrasCanciones/Nos%20sobran%20los%20motivos.md), Joaquin Sabina
 
 ## Cuentos
