@@ -73,3 +73,4 @@ Fuente: https://www.youtube.com/watch?v=sUNx5ZL5cIE
 Curiosidad: Esta canción aparece al final de la pelicula "Logan", la pelicula que cuenta la historia de Lobezno.
 
 ![](_files/../../_files/wolverine-claws-svgrepo-com.svg)
+Fuente: https://www.youtube.com/watch?v=k9IfHDi-2EA
