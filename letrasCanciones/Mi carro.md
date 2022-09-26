@@ -1,7 +1,7 @@
 # Manolo Escobar
 
-Mi carro me lo quitaron, estando de romería
-Mi carro me lo quitaron, de noche mientras dormía
+Mi carro me lo robaron, estando de romería
+Mi carro me lo robaron, de noche mientras dormía
 
 ¿Dónde estará mi carro?
 ¿dónde estará mi carro?
