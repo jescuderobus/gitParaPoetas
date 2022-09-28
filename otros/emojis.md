@@ -49,5 +49,9 @@ Flecha hacia la izquierda	:arrow_left:
 ABCD mayúsculas	:capital_abcd:
 abcd	:abcd:
 
+### Curiosidades
+thumbsdown: :-1:
+
+
 -------------------
 Fuente: https://tutorialmarkdown.com/emojis#emojis-de-simbolos
