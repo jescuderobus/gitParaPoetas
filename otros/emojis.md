@@ -38,7 +38,7 @@ Tienda de conveniencia	:convenience_store:
 Hotel del amor	:love_hotel:
 
 ### Emojis de símbolos
-1234	:1234:
+1234	:1234: 
 Cero	:zero:
 Sostenido	:hash:
 Símbolos	:symbols:
