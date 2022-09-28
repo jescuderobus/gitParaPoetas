@@ -66,9 +66,11 @@ $H=\displaystyle \sum{p(x)\log{p(x)}}$
 
 Shannon, 1949
 
+-------------------------------
 
 Fuente: https://www.ilovephd.com/17-equations-that-changed-the-world/
 
 Fuente: https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/
 
 
+Herramienta para buscar símbolos matemáticos: https://detexify.kirelabs.org/classify.html
