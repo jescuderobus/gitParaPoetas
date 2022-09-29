@@ -1,97 +1,100 @@
-[comment]: <> (pon las fechas con del formato dd/mm/yyyy )
-[comment]: <> (un rango de fechas es separado por un guión)
+title: Elio Antonio de Nebrija
+dateFormat: d/M/y
+#castilla: red
+#aragon: orange
+#esp: purple 
+#europa: green
+#mundo: yellow
 
-# Cronología de la vida y obra de Nebrija
-## Pedro Martín Baños
+group gobernantes
+1454-1474: Rey Enrique IV. #castilla
+15/01/1475-26/11/1504: Reyes Católicos. #esp
+26/11/1504-12/04/1555: Juana I de Castilla. #esp
+30/08/1464-26/07/1471: Papa Paulo II #europa
+endgroup
+
+group la Era de los Descubrimientos
+1440: Invención de la imprenta #mundo
+03/08/1492-12/10/1492: [Descubrimiento de América - Primer Viaje Ida](https://w.wiki/5m2a) #mundo
+16/01/1493-15/03/1493: [Descubrimiento de América - Primer Viaje Vuelta](https://w.wiki/5m2a) #mundo
+1493: Tratado de Tordesillas #mundo
+10/08/1519-08/09/1522: [Expedición Magallanes-Elcano](https://w.wiki/5m2b) #mundo
+08/07/1497-20/05/1498: [Ruta a las Indias de Vasco de Gama Ida](https://mihistoriauniversal.com/wp-content/uploads/vasco-gama-viaje.jpg) #mundo
+25/08/1498-09/09/1499: [Ruta a las Indias de Vasco de Gama Vuelta](https://mihistoriauniversal.com/wp-content/uploads/vasco-gama-viaje.jpg) #mundo
+1519: Hernán Cortés inicia la exploración del reino azteca. #mundo
+endgroup
 
 1444-1522: [El mundo de Elio Antonio de Nebrija](https://tecnibus22.site/jescuderobus/viernes/Nebrija/mundo.html)
 
-1444: Nacimiento en Lebrija
+1444: Nacimiento en Lebrija [Lebrija](location)
 
+group Vida privada
 1444-1458: Infancia y adolescencia en Lebrija
+15/06/1476: Matrimonio con Isabel Montesina (o de Solís)
+10/1479: Nacimiento de Marcelo, hijo primogénito de Nebrija
+1481-1482: Nacimiento de Sebastián de Nebrija
+1483: Nacimiento de Sancho de Nebrija
+1485-1486: Nacimiento de Fabián de Nebrija
+endgroup
 
-1458: Comienzo del bachillerato de Artes en Salamanca
+group Salamanca 1
+1458-02/1463: Bachillerato de Artes en [Salamanca](location)
+endgroup
 
-02/03/1463: Traslado a Italia, donde comienza sus estudios de Teología en Bolonia 
+group Estudios en Bolonia
+02/03/1463: Traslado a Italia, donde comienza sus estudios de Teología en Bolonia. [Bolonia](location)
 
-1470: Renuncia a la plaza en Bolonia y retorno a España. Se convierte en secretario del arzobispo de Sevilla, Alonso de Fonseca.
+1470: Renuncia a la plaza en Bolonia y retorno a España. 
+endgroup
+
+group Sevilla, Alonso de Fonseca
+1470: Se convierte en secretario del arzobispo de Sevilla, Alonso de Fonseca. [Sevilla](location)
 
 18/05/1473: Muerte del arzobispo Alonso de Fonseca
+endgroup
 
+group Salamanca 2
 23/01/1476: Posesión de la cátedra de Gramática de Prima 
-
-15/06/1476: Matrimonio con Isabel Montesina (o de Solís) 
-
-10/1479: Nacimiento de Marcelo, hijo primogénito de Nebrija
-
 05/02/1480:  Oposición de Nebrija a la cátedra de Retórica 
-
 16/01/1486: Primera edición de las Introductiones Latinae 
-
-1481-1482: Nacimiento de Sebastián de Nebrija
-
-1483: Nacimiento de Sanco de Nebrija
-
 1484: Nebrija obtiene el grado de maestro en Artes 
-
-1485-1486: Nacimiento de Fabián de Nebrija
-
 11/1486-12/1486: Nebrija presenta a la reina Isabel una muestra de su Gramática castellana 
+01/1487: Composición de los poemas Salutatio ominalis ad Ferdinandum Regem y Ad eundem in Epiphania Domini 
+endgroup
 
-01/1487: Composición de los poemas Salutatio ominalis ad Ferdinandum Regem y Ad 
-eundem in Epiphania Domini 
-
+group Extremadura
+1487-1504: Mecenazgo Juan de Zúniga en [Villanueva de la Serena](location)
 1487: Abandona Salamanca y entra al servicio del Maestre de Alcántara, Juan Zúñiga
-
-1488: Publicación en Salamanca de las Introduciones latinas contrapuesto el romance al 
-latín 
-
+1488: Publicación en Salamanca de las Introduciones latinas contrapuesto el romance al latín 
 1489: los dominicos imponen en todos los conventos de la Orden las Introductiones Latinae como libro de texto obligado 
-
 1490: Composición de la Salutatio ad patriam y la Elegia de patriae antiquitate 
-
-04/1490: Nebrija recita en Sevilla, ante la Corte, el Epithalamium Lusitaniae Principum, con 
-ocasión de la boda de la princesa Isabel
-
+04/1490: Nebrija recita en Sevilla, ante la Corte, el Epithalamium Lusitaniae Principum, con ocasión de la boda de la princesa Isabel
 15/07/1491: Publicación en Salamanca de los Carmina et epigrammata
-
 18/07/1492: Publicación de la Gramática sobre la lengua castellana 
-
 1494: Publicación del Dictionarium ex Hispaniensi in Latinum sermonem
-
 30/09/1495: Publicación de la Recognitio extensa de las Introductiones Latinae
-
 1496: Publicación en Burgos de la primera edición escolar de las Introductiones Latinae 
-
-12/08/1499: Publicación en Salamanca de una nueva edición revisada de las 
-Introductiones Latinae extensas
-
+12/08/1499: Publicación en Salamanca de una nueva edición revisada de las Introductiones Latinae extensas
 1502: Primera reunión en Toledo del equipo de biblistas que prepararía la Biblia Políglota 
-
 05/05/1503: Don Juan de Zúñiga es nombrado Arzobispo de Sevilla 
-
 23/05/1503: Posesión de la cátedra de Gramática 
-
 20/11/1503: Renuncia a la cátedra de Gramática 
-
 29/11/1503: Designación de don Juan de Zúñiga como Cardenal
-
 25/07/1504: Fallecimiento de don Juan de Zúñiga cerca de Guadalupe
+endgroup 
 
+group Salamanca 3 - Inquisición
 10/04/1505: Oposición en Salamanca a la cátedra de Gramática
 
 02/05/1505: Posesión de la cátedra de Gramática
 
-08/03/1506: Sancho de Nebrija comienza a gestionar en Salamanca sus probanzas de 
-limpieza de sangre
+08/03/1506: Sancho de Nebrija comienza a gestionar en Salamanca sus probanzas de limpieza de sangre
 
 22/06/1506: Sancho de Nebrija obtiene en Lebrija probanzas de limpieza de sangre 
 
-20/09/1506: Fray Diego de Deza ordena a Nebrija paralizar la impresión de sus 
-Annotationes quinquaginta in Sacras Litteras (o Prima quinquagena)
+20/09/1506: Fray Diego de Deza ordena a Nebrija paralizar la impresión de sus Annotationes quinquaginta in Sacras Litteras (o Prima quinquagena)
 
-19/10/1506: El obispo de Salamanca refrenda las probanzas de limpieza de sangre de 
-Sancho de Nebrija 
+19/10/1506: El obispo de Salamanca refrenda las probanzas de limpieza de sangre de Sancho de Nebrija 
 
 09/1506-10/1506: Comienzo del proceso inquisitorial contra Nebrija
 
@@ -118,8 +121,12 @@ Sancho de Nebrija
 06/04/1513: Petición de disolución de la sociedad con Arnao Guillén de Brocar
 
 17/07/1513-19/07/1513: Oposición a la cátedra de Gramática. Airada despedida de Salamanca
+endgroup
 
-11/1513: Nebrija se establece definitivamente en Alcalá de Henares. Publicación en Salamanca de una edición ampliada del Vocabulario español-latino, además de varias obras
+group Alcalá de Henares
+11/1513: Nebrija se establece definitivamente en Alcalá de Henares. [Alcalá de Henares](location)
+
+1513: Publicación en Salamanca de una edición ampliada del Vocabulario español-latino, además de varias obras
 
 7/02/1514-12/02/1514: Escritura de censo, en Alcalá, de la casa de la calle de la Iglesia del Colegio
 
@@ -144,14 +151,19 @@ Sancho de Nebrija
 02/07/1522: Antonio de Nebrija fallece en Alcalá
 
 05/07/1522: Se otorga a Nebrija una capilla en la Iglesia de San Ildefonso
+endgroup
 
-# Referencias
+1444-1522: [El mundo de Elio Antonio de Nebrija](https://tecnibus22.site/jescuderobus/viernes/Nebrija/mundo.html)
 
-Fuente: https://www.rtve.es/play/videos/somos-documentales/elio-viaje-de-un-rapero-a-las-entranas-del-humanismo/6651145/
 
-Fuente: https://www.rtve.es/play/audios/documentos-rne/elio-antonio-nebrija-lengua-companera-del-saber/6530112/
+group vario
+1469: Isabel de Castilla se casa con Fernando de Aragón. #esp
+1478: Se crea el tribunal de la Inquisición. #esp
+02/01/1492: Toma del reino de Granada. #esp
+12/10/1492: Descubrimiento de América. #esp
+14/03/1516-16/01/1556: Carlos I. #esp
+1517: Martín Lutero cuelga sus noventa y cinco tesis contra la venta de indulgencias #mundo
+endgroup
 
-Fuente: https://www.rtve.es/play/audios/nebrija-vivo-un-legado-por-descubrir/
-
-Fuente: https://www.nordicalibros.com/product/nebrija/
-
+_-_-_break_-_-_
+title: Page 2

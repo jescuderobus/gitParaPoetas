@@ -32,23 +32,22 @@
 
 ## España
 
-1469: Isabel de Castilla se casa con Fernando de Aragón. #españa
+1469: Isabel de Castilla se casa con Fernando de Aragón. #esp
 
-1478: Se crea el tribunal de la Inquisición. #españa
+1478: Se crea el tribunal de la Inquisición. #esp
 
-02/01/1492: Toma del reino de Granada. #españa
+02/01/1492: Toma del reino de Granada. #esp
 
-12/10/1492: Descubrimiento de América. #españa
+12/10/1492: Descubrimiento de América. #esp
 
 
+15/01/1475-26/11/1504: Reyes Católicos. #esp
 
-15/01/1475-26/11/1504: Reyes Católicos. #españa
+26/11/1504-12/04/1555: Juana I de Castilla. #esp
 
-26/11/1504-12/04/1555: Juana I de Castilla. #españa
+12/07/1506-25/09/1506: Felipe I de Castilla. #esp
 
-12/07/1506-25/09/1506: Felipe I de Castilla. #españa
-
-14/03/1516-16/01/1556: Carlos I. #españa
+14/03/1516-16/01/1556: Carlos I. #esp
 
 ## Europa
 
@@ -70,13 +69,13 @@
 
 1440: Invención de la imprenta
 
-03/08/1492-12/10/1492: [Descubrimiento de América - Primer Viaje Ida](https://upload.wikimedia.org/wikipedia/commons/c/c8/Primer_viaje_de_Col%C3%B3n%282%29.jpg) #mundo
+03/08/1492-12/10/1492: [Descubrimiento de América - Primer Viaje Ida](https://w.wiki/5m2a) #mundo
 
-16/01/1493-15/03/1493: [Descubrimiento de América - Primer Viaje Vuelta](https://upload.wikimedia.org/wikipedia/commons/c/c8/Primer_viaje_de_Col%C3%B3n%282%29.jpg) #mundo
+16/01/1493-15/03/1493: [Descubrimiento de América - Primer Viaje Vuelta](https://w.wiki/5m2a) #mundo
 
 1493: Tratado de Tordesillas
 
-10/08/1519-08/09/1522: [Expedición Magallanes-Elcano](https://es.wikipedia.org/wiki/Expedici%C3%B3n_de_Magallanes-Elcano#/media/Archivo:Magellan_Elcano_Circumnavigation-es.svg) #mundo
+10/08/1519-08/09/1522: [Expedición Magallanes-Elcano](https://w.wiki/5m2b) #mundo
 
 08/07/1497-20/05/1498: [Ruta a las Indias de Vasco de Gama Ida](https://mihistoriauniversal.com/wp-content/uploads/vasco-gama-viaje.jpg) #mundo
 

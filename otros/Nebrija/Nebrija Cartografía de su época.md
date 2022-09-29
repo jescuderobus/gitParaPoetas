@@ -1,11 +1,12 @@
 
-group mapas GeaCron
-1444: 1444
-1445: 1445
-1446: 1446
-1499-1501: [Guerras de Italia](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Grandi_Casate_Italiane_nel_1499.png/651px-Grandi_Casate_Italiane_nel_1499.png?20130110044044) 
-endgroup
+http://geacron.com/map/atlas/mapal.html?lang=es
 
 
 
-En windows "Win"+"ImpPant" guarda la captua
+## Instrucciones para crear los mapas en Windows
+
+- En windows "Win"+"ImpPant" guarda la captura de pantalla directamente en un fichero en la carpeta "Imagenes"
+- Para recortar el trozo que nos importa usamos xnView, que ademas nos renombra los ficheros.
+- He montado el carrusel buscando un javascript que lo haga con efecto crossfade.
+
+
