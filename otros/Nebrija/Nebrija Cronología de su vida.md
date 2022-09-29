@@ -34,22 +34,19 @@
 
 1485-1486: Nacimiento de Fabián de Nebrija
 
-11-12/1486: Nebrija presenta a la reina Isabel una muestra de su Gramática castellana 
+11/1486-12/1486: Nebrija presenta a la reina Isabel una muestra de su Gramática castellana 
 
-01/1487: Composición de los poemas Salutatio ominalis ad Ferdinandum Regem y Ad 
-eundem in Epiphania Domini 
+01/1487: Composición de los poemas Salutatio ominalis ad Ferdinandum Regem y Ad eundem in Epiphania Domini 
 
 1487: Abandona Salamanca y entra al servicio del Maestre de Alcántara, Juan Zúñiga
 
-1488: Publicación en Salamanca de las Introduciones latinas contrapuesto el romance al 
-latín 
+1488: Publicación en Salamanca de las Introduciones latinas contrapuesto el romance al latín 
 
 1489: los dominicos imponen en todos los conventos de la Orden las Introductiones Latinae como libro de texto obligado 
 
 1490: Composición de la Salutatio ad patriam y la Elegia de patriae antiquitate 
 
-04/1490: Nebrija recita en Sevilla, ante la Corte, el Epithalamium Lusitaniae Principum, con 
-ocasión de la boda de la princesa Isabel
+04/1490: Nebrija recita en Sevilla, ante la Corte, el Epithalamium Lusitaniae Principum, con ocasión de la boda de la princesa Isabel
 
 15/07/1491: Publicación en Salamanca de los Carmina et epigrammata
 
@@ -61,8 +58,7 @@ ocasión de la boda de la princesa Isabel
 
 1496: Publicación en Burgos de la primera edición escolar de las Introductiones Latinae 
 
-12/08/1499: Publicación en Salamanca de una nueva edición revisada de las 
-Introductiones Latinae extensas
+12/08/1499: Publicación en Salamanca de una nueva edición revisada de las Introductiones Latinae extensas
 
 1502: Primera reunión en Toledo del equipo de biblistas que prepararía la Biblia Políglota 
 
@@ -80,18 +76,15 @@ Introductiones Latinae extensas
 
 02/05/1505: Posesión de la cátedra de Gramática
 
-08/03/1506: Sancho de Nebrija comienza a gestionar en Salamanca sus probanzas de 
-limpieza de sangre
+08/03/1506: Sancho de Nebrija comienza a gestionar en Salamanca sus probanzas de limpieza de sangre
 
 22/06/1506: Sancho de Nebrija obtiene en Lebrija probanzas de limpieza de sangre 
 
-20/09/1506: Fray Diego de Deza ordena a Nebrija paralizar la impresión de sus 
-Annotationes quinquaginta in Sacras Litteras (o Prima quinquagena)
+20/09/1506: Fray Diego de Deza ordena a Nebrija paralizar la impresión de sus Annotationes quinquaginta in Sacras Litteras (o Prima quinquagena)
 
-19/10/1506: El obispo de Salamanca refrenda las probanzas de limpieza de sangre de 
-Sancho de Nebrija 
+19/10/1506: El obispo de Salamanca refrenda las probanzas de limpieza de sangre de Sancho de Nebrija 
 
-09-10/1506: Comienzo del proceso inquisitorial contra Nebrija
+09/1506-10/1506: Comienzo del proceso inquisitorial contra Nebrija
 
 11/1506: Estatuto de la Universidad para impedir que los conversos accedan a cátedras
 
@@ -115,11 +108,11 @@ Sancho de Nebrija
 
 06/04/1513: Petición de disolución de la sociedad con Arnao Guillén de Brocar
 
-17-19/07/1513: Oposición a la cátedra de Gramática. Airada despedida de Salamanca
+17/07/1513-19/07/1513: Oposición a la cátedra de Gramática. Airada despedida de Salamanca
 
 11/1513: Nebrija se establece definitivamente en Alcalá de Henares. Publicación en Salamanca de una edición ampliada del Vocabulario español-latino, además de varias obras
 
-7-12/02/1514: Escritura de censo, en Alcalá, de la casa de la calle de la Iglesia del Colegio
+7/02/1514-12/02/1514: Escritura de censo, en Alcalá, de la casa de la calle de la Iglesia del Colegio
 
 24/02/1515: Publicación de la Artis rhetoricae compendiosa coaptatio
 
