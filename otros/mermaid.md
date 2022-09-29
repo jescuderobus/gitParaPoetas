@@ -1,5 +1,6 @@
 # Diagramas generados con mermaid
 
+
 ## Diagrama de clases
 
 ```mermaid 
@@ -10,11 +11,43 @@
     C -->|Two| E[Result two]
 ```
 
+## UML class diagram
+
+```mermaid
+classDiagram
+   Person <|-- Student
+   Person <|-- Professor
+   Person : +String name
+   Person : +String phoneNumber
+   Person : +String emailAddress
+   Person: +purchaseParkingPass()
+   Address "1" <-- "0..1" Person:lives at
+   class Student{
+      +int studentNumber
+      +int averageMark
+      +isEligibleToEnrol()
+      +getSeminarsTaken()
+    }
+    class Professor{
+      +int salary
+    }
+    class Address{
+      +String street
+      +String city
+      +String state
+      +int postalCode
+      +String country
+      -validate()
+      +outputAsLabel()  
+    }
+```	
+
 ## Diagrama de estados
 
 ```mermaid
 stateDiagram-v2
-    [*] --> Activestate Active {
+    [*] --> Active
+    state Active {
         [*] --> NumLockOff
         NumLockOff --> NumLockOn : EvNumLockPressed
         NumLockOn --> NumLockOff : EvNumLockPressed
@@ -84,7 +117,8 @@ pie
 ## Diagrama de Requerimientos
 
 ```mermaid
-requirementDiagramrequirement test_req {
+requirementDiagram
+    requirement test_req {
     id: 1
     text: the test text.
     risk: high
@@ -132,7 +166,20 @@ requirementDiagramrequirement test_req {
     test_req <- copies - test_entity2
 ```
 
+## UML Sequence Diagram
 
+```mermaid
+sequenceDiagram
+    autonumber
+    Student->>Admin: Can I enrol this semester?
+    loop enrolmentCheck
+        Admin->>Admin: Check previous results
+    end
+    Note right of Admin: Exam results may <br> be delayed
+    Admin-->>Student: Enrolment success
+    Admin->>Professor: Assign student to tutor
+    Professor-->>Admin: Student is assigned
+```
 
 ## Diagrama FlowChart
 

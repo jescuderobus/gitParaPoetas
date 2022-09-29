@@ -2,9 +2,9 @@
 
 El protagonista Jean Valjean se escapa de la cárcel, donde cumplía prisión injustamente.
 
-Valjean andaba desamparado, hasta que toca la puerta del Monseñor Charles Bienvenu Myriel, quien le da hospedaje en su casa por lo que Valjean no sospecha de quien se trata. A pesar del buen corazón de myriel la hurta una media docena de cubiertos de plata, mientras el monseñor dormía.
+Valjean andaba desamparado, hasta que toca la puerta del Monseñor Charles Bienvenu Myriel, quien le da hospedaje en su casa por lo que Valjean no sospecha de quien se trata. A pesar del buen corazón de Myriel le hurta una media docena de cubiertos de plata, mientras el monseñor dormía.
 
-Valjean abandona el aposento llevándose consigo lo robado. Para su desgracia Valjean es apresado por la policía cuando huía. La policía lo lleva ante la presencia del noble monseñor myriel y este declara habérselos obsequiado. Valjean quedo impactado emocionalmente por esta acción tan noble.
+Valjean abandona el aposento llevándose consigo lo robado. Para su desgracia Valjean es apresado por la policía cuando huía. La policía lo lleva ante la presencia del noble monseñor Myriel y este declara habérselos obsequiado. Valjean quedo impactado emocionalmente por esta acción tan noble.
 
 Myriel le aconseja al fugitivo Valjean que se regenere y que siga el camino del bien. Luego se marcha despidiéndose del Monseñor. El incorregible Valjean, al día siguiente le roba dos frascos a gervasillo, hacen que Jean Valjean empiece a tomar conciencia de la necesidad de su regeneración.
 
@@ -24,29 +24,32 @@ Finaliza con la descripción literaria de los últimos instantes de la vida agit
 
 # Resumen de los "Los Miserables" (emoji version)
 
-# 1815  
-## :lock::pensive::unlock::grinning::runner::dash:
-# 1823  
-## :tophat::necktie:  
-## :tipping_hand_woman::point_left::thumbsdown:  
-## :tipping_hand_woman::lips::lipstick::dress:  
-## :tipping_hand_woman::musical_note::skull:  
-## :couple:(:smiling_imp:):heavy_minus_sign::girl::heavy_plus_sign::man:  
-# 1832  
-## :fr::notes::fr::notes::fr::notes::fr:  
-## :fr::gun::fr::knife::fr:  
-## :boy::eyes::princess::soon::heart_eyes:  
-## :couple::musical_note::couple_with_heart:  
-## :woman::thought_balloon::boy::x::woman:
-## :soon::gun::knife:
-## :woman::gun::boy::notes::woman::skull:
-## :x::gun::soon::blond_haired_person::gun::angel::skull:
-## :notes::notes::notes::notes::notes::notes::notes::notes:
-## :bomb::collision::collision::knife::knife:
-## :skull::skull::skull::skull::skull::skull::skull::skull:
-## :police_officer:  
+<strong><big><big><big><big>
+1815  
+:lock::pensive::unlock::grinning::runner::dash:
+1823  
+:tophat::necktie:  
+:tipping_hand_woman::point_left::thumbsdown:  
+:tipping_hand_woman::lips::lipstick::dress:  
+:tipping_hand_woman::musical_note::skull:  
+:couple:(:smiling_imp:):heavy_minus_sign::girl::heavy_plus_sign::man:  
+1832  
+:fr::notes::fr::notes::fr::notes::fr:  
+:fr::gun::fr::knife::fr:  
+:boy::eyes::princess::soon::heart_eyes:  
+:couple::musical_note::couple_with_heart:  
+:woman::thought_balloon::boy::x::woman:
+:soon::gun::knife:
+:woman::gun::boy::notes::woman::skull:
+:x::gun::soon::blond_haired_person::gun::angel::skull:
+:notes::notes::notes::notes::notes::notes::notes::notes:
+:bomb::collision::collision::knife::knife:
+:skull::skull::skull::skull::skull::skull::skull::skull:
+:police_officer:  
+:boy:
+</big></big></big></big></strong>
 
+La imagen que dió origen a este post es esta:
 
-La imagen origen de este post es esta:
 ![](https://cpb-ap-se2.wpmucdn.com/mediafactory.org.au/dist/a/37/files/2015/05/emoji-classic-les-miserables-1tebqcr-335x1024-16uac3a.jpg)
 

@@ -1,6 +1,7 @@
 {
     "[markdown]": {
-      "files.trimTrailingWhitespace": false
+      "files.trimTrailingWhitespace": false,
+      "theme": "forest"
     }
   }
   

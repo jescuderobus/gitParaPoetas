@@ -55,3 +55,5 @@ thumbsdown: :-1:
 
 -------------------
 Fuente: https://tutorialmarkdown.com/emojis#emojis-de-simbolos
+
+Fuente: https://github.com/onmyway133/emoji

@@ -1,34 +1,52 @@
+[comment]: <> (pon las fechas con del formato dd/mm/yyy: )
+[comment]: <> (un rango de fechas es separado por un guión)
+[comment]: <> (dateFormat: d/M/y)
+[comment]: <> (#castilla: red)
+[comment]: <> (#aragon: orange)
+[comment]: <> (#españa: purple)
+[comment]: <> (#europa: green)
+[comment]: <> (#mundo: yellow)
+
+
+
 # Cronología de la vida y obra de Nebrija
 ## Pedro Martín Baños
 
 1444: Nacimiento en Lebrija
-1445 Batalla de Olmedo
+
 1444-1458: Infancia y adolescencia en Lebrija
+
 1458-1464: Estudia Bachiller en Artes en Salamanca
+
 1458: Comienzo del bachillerato de Artes en Salamanca
+
 12/1464: Nebrija obtiene en Córdoba una beca para Bolonia
+
 2/03/1465: Admisión en el Colegio de España de Bolonia
+
 25/10/1468: Nebrija deja en prenda en la Biblioteca boloñesa cuatro libros humanísticos
+
 14/05/1469: Venta al Colegio de España de un libro de Santo Tomás
+
 1/05/1470: Solicitud de licencia para ausentarse de Bolonia (a partir de este momento, Nebrija comienza a servir al arzobispo de Sevilla Alonso de Fonseca)
+
 6/12/1470: Se presenta en Bolonia la renuncia de Nebrija a su plaza
+
 18/05/1473: Muerte del arzobispo Alonso de Fonseca
+
 1/05/1470-18/05/1473: Al servicio de Alonso de Fonseca.
 
+4/6/1475: Nebrija actúa como testigo en Salamanca 
 
+4/7/1475: Nebrija asume las lecciones de Oratoria y Poesía 
 
+1475-1480: Copia de un manuscrito del Elogio de la calvicie para el obispo Vivero
 
- 1475 4 de junio. Nebrija actúa como testigo en Salamanca 
+23/1/1476: Posesión de la cátedra de Gramática de Prima 
 
- 4 de julio. Nebrija asume las lecciones de Oratoria y Poesía 
+18/10/1476: Nebrija traspasa la lección de Oratoria a días festivos 
 
- (Aprox. 1475-1480). Copia de un manuscrito del Elogio de la calvicie para el obispo Vivero
-
- 1476 23 de enero. Posesión de la cátedra de Gramática de Prima 
-
- 18 de octubre. Nebrija traspasa la lección de Oratoria a días festivos 
-
- 1478 16 de marzo. Se suspende la lección nebrisense de Oratoria 
+16/3/1478: Se suspende la lección nebrisense de Oratoria 
 
  
 
@@ -556,5 +574,34 @@ manuscritos de su padre, que retirará un año después, en junio de 1523
  Septiembre. La Universidad complutense tantea a Luis Vives para ocupar la cátedra de 
 Retórica
 
-# Otras cosas que pasaban
+# Otras cosas que pasaban entre 1444 y 1522
+
+## Castilla
+
+19/05/1445: [Batalla de Olmedo](https://w.wiki/5kqe) #castilla
+
+02/01/1492:  Con la toma del Reino de Granada a Boabdil termina la presencia musulmana en España. #castilla
+
+12/10/1492: Cristóbal Colón, al mando de una expedición de una nao y dos carabelas, la Santa María, La Pinta y La Niña, llega a la isla de la Española, hoy Santo Domingo y descubre América.#castilla
+
+## Aragón
+
+## España
+
+15/01/1475-26/11/1504: Reyes Católicos. #españa
+
+
+
+## Europa
+
+11/08/1492-18/08/1503: Papado de Alejandro IV. #europa
+
+01/11/1503-21/02/1513: Papado de Julio II. #europa
+
+11/03/1513-01-12-1521: Papado de León X. #europa
+
+## Mundo
+
+
+
 
