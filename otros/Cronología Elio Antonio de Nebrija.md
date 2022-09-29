@@ -603,5 +603,13 @@ Retórica
 ## Mundo
 
 
+# Referencias
+
+Fuente: https://www.rtve.es/play/videos/somos-documentales/elio-viaje-de-un-rapero-a-las-entranas-del-humanismo/6651145/
+
+Fuente: https://www.rtve.es/play/audios/documentos-rne/elio-antonio-nebrija-lengua-companera-del-saber/6530112/
+
+Fuente: https://www.rtve.es/play/audios/nebrija-vivo-un-legado-por-descubrir/
+
 
 
