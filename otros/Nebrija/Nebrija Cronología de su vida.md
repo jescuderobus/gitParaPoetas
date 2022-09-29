@@ -34,7 +34,7 @@
 
 1485-1486: Nacimiento de Fabián de Nebrija
 
-11-12/1486: Nebrija presenta a la reina Isabel una muestra de su Gramática castellana 
+11/1486-12/1486: Nebrija presenta a la reina Isabel una muestra de su Gramática castellana 
 
 01/1487: Composición de los poemas Salutatio ominalis ad Ferdinandum Regem y Ad 
 eundem in Epiphania Domini 
@@ -91,7 +91,7 @@ Annotationes quinquaginta in Sacras Litteras (o Prima quinquagena)
 19/10/1506: El obispo de Salamanca refrenda las probanzas de limpieza de sangre de 
 Sancho de Nebrija 
 
-09-10/1506: Comienzo del proceso inquisitorial contra Nebrija
+09/1506-10/1506: Comienzo del proceso inquisitorial contra Nebrija
 
 11/1506: Estatuto de la Universidad para impedir que los conversos accedan a cátedras
 
@@ -115,11 +115,11 @@ Sancho de Nebrija
 
 06/04/1513: Petición de disolución de la sociedad con Arnao Guillén de Brocar
 
-17-19/07/1513: Oposición a la cátedra de Gramática. Airada despedida de Salamanca
+17/07/1513-19/07/1513: Oposición a la cátedra de Gramática. Airada despedida de Salamanca
 
 11/1513: Nebrija se establece definitivamente en Alcalá de Henares. Publicación en Salamanca de una edición ampliada del Vocabulario español-latino, además de varias obras
 
-7-12/02/1514: Escritura de censo, en Alcalá, de la casa de la calle de la Iglesia del Colegio
+7/02/1514-12/02/1514: Escritura de censo, en Alcalá, de la casa de la calle de la Iglesia del Colegio
 
 24/02/1515: Publicación de la Artis rhetoricae compendiosa coaptatio
 
