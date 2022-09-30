@@ -67,13 +67,93 @@ http://geacron.com/map/atlas/mapal.html?lang=es
 ```
 
 ```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
+solid Mesh
+  facet normal 1.000000 0.000000 0.000000
     outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
+      vertex 10.000000 0.000000 0.000000
+      vertex 10.000000 -20.000000 20.000000
+      vertex 10.000000 -20.000000 0.000000
     endloop
   endfacet
-  ...
+  facet normal 1.000000 0.000000 0.000000
+    outer loop
+      vertex 10.000000 0.000000 20.000000
+      vertex 10.000000 -20.000000 20.000000
+      vertex 10.000000 0.000000 0.000000
+    endloop
+  endfacet
+  facet normal -1.000000 0.000000 0.000000
+    outer loop
+      vertex -10.000000 -20.000000 0.000000
+      vertex -10.000000 0.000000 20.000000
+      vertex -10.000000 0.000000 0.000000
+    endloop
+  endfacet
+  facet normal -1.000000 0.000000 0.000000
+    outer loop
+      vertex -10.000000 -20.000000 20.000000
+      vertex -10.000000 0.000000 20.000000
+      vertex -10.000000 -20.000000 0.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex -10.000000 -20.000000 20.000000
+      vertex 10.000000 0.000000 20.000000
+      vertex -10.000000 0.000000 20.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -0.000000 1.000000
+    outer loop
+      vertex 10.000000 -20.000000 20.000000
+      vertex 10.000000 0.000000 20.000000
+      vertex -10.000000 -20.000000 20.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 -1.000000
+    outer loop
+      vertex -10.000000 0.000000 0.000000
+      vertex 10.000000 -20.000000 0.000000
+      vertex -10.000000 -20.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
+      vertex 10.000000 0.000000 0.000000
+      vertex 10.000000 -20.000000 0.000000
+      vertex -10.000000 0.000000 0.000000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex -10.000000 0.000000 0.000000
+      vertex 10.000000 0.000000 20.000000
+      vertex 10.000000 0.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 0.000000
+    outer loop
+      vertex -10.000000 0.000000 20.000000
+      vertex 10.000000 0.000000 20.000000
+      vertex -10.000000 0.000000 0.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 0.000000
+    outer loop
+      vertex 10.000000 -20.000000 0.000000
+      vertex -10.000000 -20.000000 20.000000
+      vertex -10.000000 -20.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -1.000000 -0.000000
+    outer loop
+      vertex 10.000000 -20.000000 20.000000
+      vertex -10.000000 -20.000000 20.000000
+      vertex 10.000000 -20.000000 0.000000
+    endloop
+  endfacet
+endsolid Mesh
+
+  
 ```
+
