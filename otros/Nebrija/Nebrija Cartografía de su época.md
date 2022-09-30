@@ -14,7 +14,7 @@ http://geacron.com/map/atlas/mapal.html?lang=es
   "type": "Polygon",
   "coordinates": [
       [
-          [-90,30],
+          [37,-5],
           [-90,35],
           [-90,35],
           [-85,35],
