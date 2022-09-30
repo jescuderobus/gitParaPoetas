@@ -1,26 +1,29 @@
 
-http://geacron.com/map/atlas/mapal.html?lang=es
+## Mapa Político de Europa en tiempos de Nebrija 
+
+- http://geacron.com/map/atlas/mapal.html?lang=es
+- https://chronas.org/
+- openhistoricalmap.org
 
 
-
-## Instrucciones para crear los mapas en Windows
-
-- En windows "Win"+"ImpPant" guarda la captura de pantalla directamente en un fichero en la carpeta "Imagenes"
-- Para recortar el trozo que nos importa usamos xnView, que ademas nos renombra los ficheros.
-- He montado el carrusel buscando un javascript que lo haga con efecto crossfade.
+## Ciudades donde estuvo Nebrija (geojson)
 
 ```geojson
 {
-  "type": "Polygon",
+  "type": "MultiPoint",
   "coordinates": [
       [
-          [-6.0752900,36.9207700],
-          [11.3387500,44.4938100]
-          
+          [-6.07529,36.92077],
+          [-5.66388, 40.96882],
+          [11.33875,44.49381],
+          [-5.7974,38.97665],
+          [-3.35996,40.48205]
       ]
   ]
 }
 ```
+
+## Ciudades donde estuvo Nebrija (topojson)
 
 ```topojson
  {
@@ -63,95 +66,3 @@ http://geacron.com/map/atlas/mapal.html?lang=es
   ]
 }
 ```
-
-```stl
-solid Mesh
-  facet normal 1.000000 0.000000 0.000000
-    outer loop
-      vertex 10.000000 0.000000 0.000000
-      vertex 10.000000 -20.000000 20.000000
-      vertex 10.000000 -20.000000 0.000000
-    endloop
-  endfacet
-  facet normal 1.000000 0.000000 0.000000
-    outer loop
-      vertex 10.000000 0.000000 20.000000
-      vertex 10.000000 -20.000000 20.000000
-      vertex 10.000000 0.000000 0.000000
-    endloop
-  endfacet
-  facet normal -1.000000 0.000000 0.000000
-    outer loop
-      vertex -10.000000 -20.000000 0.000000
-      vertex -10.000000 0.000000 20.000000
-      vertex -10.000000 0.000000 0.000000
-    endloop
-  endfacet
-  facet normal -1.000000 0.000000 0.000000
-    outer loop
-      vertex -10.000000 -20.000000 20.000000
-      vertex -10.000000 0.000000 20.000000
-      vertex -10.000000 -20.000000 0.000000
-    endloop
-  endfacet
-  facet normal 0.000000 0.000000 1.000000
-    outer loop
-      vertex -10.000000 -20.000000 20.000000
-      vertex 10.000000 0.000000 20.000000
-      vertex -10.000000 0.000000 20.000000
-    endloop
-  endfacet
-  facet normal 0.000000 -0.000000 1.000000
-    outer loop
-      vertex 10.000000 -20.000000 20.000000
-      vertex 10.000000 0.000000 20.000000
-      vertex -10.000000 -20.000000 20.000000
-    endloop
-  endfacet
-  facet normal 0.000000 0.000000 -1.000000
-    outer loop
-      vertex -10.000000 0.000000 0.000000
-      vertex 10.000000 -20.000000 0.000000
-      vertex -10.000000 -20.000000 0.000000
-    endloop
-  endfacet
-  facet normal -0.000000 -0.000000 -1.000000
-    outer loop
-      vertex 10.000000 0.000000 0.000000
-      vertex 10.000000 -20.000000 0.000000
-      vertex -10.000000 0.000000 0.000000
-    endloop
-  endfacet
-  facet normal 0.000000 1.000000 0.000000
-    outer loop
-      vertex -10.000000 0.000000 0.000000
-      vertex 10.000000 0.000000 20.000000
-      vertex 10.000000 0.000000 0.000000
-    endloop
-  endfacet
-  facet normal -0.000000 1.000000 0.000000
-    outer loop
-      vertex -10.000000 0.000000 20.000000
-      vertex 10.000000 0.000000 20.000000
-      vertex -10.000000 0.000000 0.000000
-    endloop
-  endfacet
-  facet normal 0.000000 -1.000000 0.000000
-    outer loop
-      vertex 10.000000 -20.000000 0.000000
-      vertex -10.000000 -20.000000 20.000000
-      vertex -10.000000 -20.000000 0.000000
-    endloop
-  endfacet
-  facet normal -0.000000 -1.000000 -0.000000
-    outer loop
-      vertex 10.000000 -20.000000 20.000000
-      vertex -10.000000 -20.000000 20.000000
-      vertex 10.000000 -20.000000 0.000000
-    endloop
-  endfacet
-endsolid Mesh
-
-  
-```
-
