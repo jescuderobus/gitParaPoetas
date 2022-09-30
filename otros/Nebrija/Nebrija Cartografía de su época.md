@@ -15,7 +15,7 @@ http://geacron.com/map/atlas/mapal.html?lang=es
   "coordinates": [
       [
           [-5,37],
-          [12,41],
+          [12,41]
           
       ]
   ]
