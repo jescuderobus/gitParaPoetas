@@ -6,18 +6,22 @@ dateFormat: d/M/y
 #europa: green
 #mundo: yellow
 
-group gobernantes
+  group gobernantes
 1454-1474: Rey Enrique IV. #castilla
 15/01/1475-26/11/1504: Reyes Católicos. #esp
 26/11/1504-12/04/1555: Juana I de Castilla. #esp
 30/08/1464-26/07/1471: Papa Paulo II #europa
 endgroup
 
-group la Era de los Descubrimientos
-1440: Invención de la imprenta #mundo
+  group la Era de los Descubrimientos #mundo
+1420: Brújula #mundo
+1449: Primer libro impreso, Gutemberg #mundo
+1460: Astrolabio #mundo
+1481: Primeras Carabelas #mundo
+1488: Bartolomé Dias llega al cabo de Buena Esperanza #mundo
 03/08/1492-12/10/1492: [Descubrimiento de América - Primer Viaje Ida](https://w.wiki/5m2a) #mundo
 16/01/1493-15/03/1493: [Descubrimiento de América - Primer Viaje Vuelta](https://w.wiki/5m2a) #mundo
-1493: Tratado de Tordesillas #mundo
+1494: Tratado de Tordesillas #mundo
 10/08/1519-08/09/1522: [Expedición Magallanes-Elcano](https://w.wiki/5m2b) #mundo
 08/07/1497-20/05/1498: [Ruta a las Indias de Vasco de Gama Ida](https://mihistoriauniversal.com/wp-content/uploads/vasco-gama-viaje.jpg) #mundo
 25/08/1498-09/09/1499: [Ruta a las Indias de Vasco de Gama Vuelta](https://mihistoriauniversal.com/wp-content/uploads/vasco-gama-viaje.jpg) #mundo
@@ -28,7 +32,7 @@ endgroup
 
 1444: Nacimiento en Lebrija [Lebrija](location)
 
-group Vida privada
+  group Vida privada
 1444-1458: Infancia y adolescencia en Lebrija
 15/06/1476: Matrimonio con Isabel Montesina (o de Solís)
 10/1479: Nacimiento de Marcelo, hijo primogénito de Nebrija
@@ -37,23 +41,23 @@ group Vida privada
 1485-1486: Nacimiento de Fabián de Nebrija
 endgroup
 
-group Salamanca 1
+  group Salamanca 1
 1458-02/1463: Bachillerato de Artes en [Salamanca](location)
 endgroup
 
-group Estudios en Bolonia
+  group Estudios en Bolonia
 02/03/1463: Traslado a Italia, donde comienza sus estudios de Teología en Bolonia. [Bolonia](location)
 
 1470: Renuncia a la plaza en Bolonia y retorno a España. 
 endgroup
 
-group Sevilla, Alonso de Fonseca
+  group Sevilla, Alonso de Fonseca
 1470: Se convierte en secretario del arzobispo de Sevilla, Alonso de Fonseca. [Sevilla](location)
 
 18/05/1473: Muerte del arzobispo Alonso de Fonseca
 endgroup
 
-group Salamanca 2
+  group Salamanca 2
 23/01/1476: Posesión de la cátedra de Gramática de Prima 
 05/02/1480:  Oposición de Nebrija a la cátedra de Retórica 
 16/01/1486: Primera edición de las Introductiones Latinae 
@@ -62,7 +66,7 @@ group Salamanca 2
 01/1487: Composición de los poemas Salutatio ominalis ad Ferdinandum Regem y Ad eundem in Epiphania Domini 
 endgroup
 
-group Extremadura
+  group Extremadura, Juan de Zúñiga
 1487-1504: Mecenazgo Juan de Zúniga en [Villanueva de la Serena](location)
 1487: Abandona Salamanca y entra al servicio del Maestre de Alcántara, Juan Zúñiga
 1488: Publicación en Salamanca de las Introduciones latinas contrapuesto el romance al latín 
@@ -83,7 +87,7 @@ group Extremadura
 25/07/1504: Fallecimiento de don Juan de Zúñiga cerca de Guadalupe
 endgroup 
 
-group Salamanca 3 - Inquisición
+  group Salamanca 3 - Inquisición
 10/04/1505: Oposición en Salamanca a la cátedra de Gramática
 
 02/05/1505: Posesión de la cátedra de Gramática
@@ -123,8 +127,8 @@ group Salamanca 3 - Inquisición
 17/07/1513-19/07/1513: Oposición a la cátedra de Gramática. Airada despedida de Salamanca
 endgroup
 
-group Alcalá de Henares
-11/1513: Nebrija se establece definitivamente en Alcalá de Henares. [Alcalá de Henares](location)
+  group Alcalá de Henares
+11/1513: Nebrija se establece definitivamente en Alcalá de Henares. 
 
 1513: Publicación en Salamanca de una edición ampliada del Vocabulario español-latino, además de varias obras
 
@@ -147,16 +151,17 @@ group Alcalá de Henares
 09/1520: Alcalá se adhiere a las Comunidades
 
 07/03/1521: Alcalá recibe en un ambiente exaltado al líder comunero Antonio de Acuña
-
-02/07/1522: Antonio de Nebrija fallece en Alcalá
-
-05/07/1522: Se otorga a Nebrija una capilla en la Iglesia de San Ildefonso
 endgroup
+
+02/07/1522: Antonio de Nebrija fallece en Alcalá de Henares. [Alcalá de Henares](location)
 
 1444-1522: [El mundo de Elio Antonio de Nebrija](https://tecnibus22.site/jescuderobus/viernes/Nebrija/mundo.html)
 
 
-group vario
+  group vario
+1450: comienzo de la construcción de Machu Picchu. #mundo
+1453: la caída de Constantinopla marca el final del Imperio bizantino y la muerte del último emperador romano. #mundo
+1494-1559: las guerras italianas llevaron a la caída de las ciudades-estado italianas. #mundo
 1469: Isabel de Castilla se casa con Fernando de Aragón. #esp
 1478: Se crea el tribunal de la Inquisición. #esp
 02/01/1492: Toma del reino de Granada. #esp
