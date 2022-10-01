@@ -1,4 +1,4 @@
-# Syd Matters
+# Obstacles
 
 Let's say sunshine for everyone
 But as far as I can remember
@@ -24,6 +24,6 @@ We were younger
 Someday we will foresee obstacles
 Through the blizzard, through the blizzard
 
-Syd Matters
+**_Syd Matters_**
 
-Fuente: https://www.youtube.com/watch?v=128iOL8sHhs
+YTB: https://www.youtube.com/watch?v=128iOL8sHhs

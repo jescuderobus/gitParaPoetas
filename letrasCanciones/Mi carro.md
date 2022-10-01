@@ -1,4 +1,4 @@
-# Manolo Escobar
+# Mi carro
 
 Mi carro me lo robaron, estando de romería
 Mi carro me lo robaron, de noche mientras dormía
@@ -35,3 +35,12 @@ En mi carro me gasté, una fortuna
 y en mis noches de amor, llevé a la luna
 preguntando lo busqué, por todas partes
 y por fin lo encontré, sin atalaje.
+
+_**Manolo Escobar**_
+
+## Referencias
+- YTB: https://www.youtube.com/watch?v=Oix8tF5zyzw
+- WKP: https://es.wikipedia.org/wiki/Carro
+- :mag: atalaje
+
+

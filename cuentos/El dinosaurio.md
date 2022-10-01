@@ -2,5 +2,5 @@
 
 Cuando despertó,  el dinosaurio todavía estaba allí.
 
-Augusto Monterroso
+_**Augusto Monterroso**_
 

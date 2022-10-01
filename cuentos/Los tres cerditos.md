@@ -1,4 +1,4 @@
-Autor Hans Christian Andersen
+# Los tres cerditos 🐷🐷🐷 :wolf:
 
 Había una vez tres hermanos cerditos que vivían en el bosque. Como el malvado lobo siempre los estaba persiguiendo para comérselos dijo un día el mayor:
 
@@ -37,3 +37,5 @@ Los tres cerditos- ¿Quien teme al lobo feroz? ¡No, no, no!
 Fuera el lobo continuaba soplando en vano, cada vez más enfadado. Hasta que decidió parar para descansar y entonces reparó en que la casa tenía una chimenea.
 
 - ¡Ja! ¡Pensaban que de mí iban a librarse! ¡Subiré por la chimenea y me los comeré a los tres!
+
+_**Christian Andersen**_
