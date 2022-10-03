@@ -1,5 +1,3 @@
-[¿Cómo se enlaza el archivo settings.json que modifica los estilos?](settings.json)
-
 ```mermaid
 %%{init: {'theme': 'dark', "flowchart" : { "curve" : "basis" } } }%%
 graph LR;
