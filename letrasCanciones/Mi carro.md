@@ -41,6 +41,7 @@ _**Manolo Escobar**_
 ## Referencias
 - YTB: https://www.youtube.com/watch?v=Oix8tF5zyzw
 - WKP: https://es.wikipedia.org/wiki/Carro
-- :mag: atalaje
+- :mag: atalaje: es el conjunto de arreos o guarniciones que se ponen en el animal de tiro para que arrastre con comodidad los carruajes. Por extensión se denomina también atalaje al conjunto de las guarniciones del ganado de carga. Los tipos de enganche pueden ser 'de varas', 'de limonera', 'de colleron' o 'de pechera' 
+
 
 
