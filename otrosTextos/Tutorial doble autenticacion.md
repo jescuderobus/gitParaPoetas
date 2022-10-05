@@ -14,7 +14,7 @@ FOTO 2
 
 #### Paso 2
 
-Ahora activamos el servicio en [2fa.us.es](https://2fa.us.es)
+Ahora activamos el servicio en [https://2fa.us.es](https://2fa.us.es)
 
 Primero nos logueamos y le damos a "Activar doble factor". En el primer paso, descargar una aplicacion, le damos a "Hecho"
 
@@ -39,7 +39,14 @@ En _Editor_ ponemos TOTP y le damos a guardar
 
 FOTO 9, 10
 
-En la aplicacion de la universidad le damos a "Hecho" al paso 2 y en el paso 3 nos pide el código que nos aparece en la aplicacion "OTP Manager", lo introducimos y le damos a "Activar"
+En la aplicacion de la universidad le damos a "Hecho" al paso 2 y en el paso 3 nos pide el código que nos aparece en la aplicacion "OTP Manager", lo introducimos y le damos a "Activar".
+
+## Comprobación de que todo funciona correctamente
+
+1 - Vmos a https://vpncubo.us.es
+2 - Nos pide las credenciales del UVUS
+3- Nos enseña el menu de dialogo
+4 - Abres el OTP y le metes el nuemro de los 30 seg
 
 Ahora si intentamos entrar en cualquiera de las plataformas que nos pide la doble autenticación (p.ej. VPNCubo), al poner el código de 6 dígitos que nos aparece en la aplicacion "OTP Manager" podremos entrar. Hay que tener en cuenta que este número cambia cada 30 segundos por lo que hay que estar un poco rápido al realizar este paso.
 
