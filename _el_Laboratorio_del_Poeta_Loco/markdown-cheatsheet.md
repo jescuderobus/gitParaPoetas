@@ -26,8 +26,41 @@ Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
-Combined emphasis with **asterisks and _underscores_**.
+Combined emphasis with **asterisks and _underscores_**. Tambien se puede combinar con tres ***asteriscos***.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
+Para citas bibliográficas tenemos que poner mayor que al principio de la linea
+>con la correspondiente cita.
+
+
+Para insertar código empleamos  el simbolo ~, ponemos 3 al principio y al final del código y se inserta un cuadro de texto. 
+
+~~~
+<html>
+    <body>
+        <h1>Prueba</h1>
+    </body>
+</html>    
+~~~
+
 ___
+
+# Listas ordenadas y desordernadas
+
+Para listas desordenadas podemos usar tres tipos de símbolos, lo mejor es que usemos en toda la lista el mismo simbolo.  
+- Privacidad
+    - Sublista
+        - Sublista
+            - Sublista
+* Seguridad
++ Rapidez
+
+Para las listas ordenadas ponemos los números aunque se va a visualizar de otra manera.  
+
+1. Programación básica
+    1. Variables
+        1. If
+2. POO
+3. POE
+
